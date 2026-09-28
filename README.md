@@ -63,3 +63,10 @@ The project demonstrates the use of SQL for extracting, transforming, and analyz
 ## Project Source
 
 This project was completed as part of my Data Analyst learning and portfolio development.
+
+## Project Files
+
+* `Covid data exploration.sql` – SQL queries used for COVID-19 data exploration and analysis.
+* `covid dashboard1.twb` – Tableau workbook containing the COVID-19 dashboard.
+* `README.md` – Project documentation.
+
